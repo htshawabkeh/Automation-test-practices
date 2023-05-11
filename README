@@ -1,0 +1,16 @@
+# This is a Technical Test Guidance for interviewer to sun the script 
+- Make sure to download Katalon Studio (its' free) from the link: https://katalon.com/download
+- Create an account for Katalon Studio 
+- Once Katalon Account created, please login using created account into downloaded tool
+- to run the script was implemented using Java programming language and BDD framework. follow the below steps:
+    - Go to Include > features > SunscriptionPackages.feature 
+    - Run the feature by clicking on the green play button above, or right-click > run as cucumber feature
+ 
+ - You will find the script runs proberly and the reprot will open by default 
+ - you can check the sheet created with the data for expected and actual results created under Data files > SubscriptionPackages.xlsx
+
+ 
+## Authors
+
+- Hadeel Shawabkeh
+
